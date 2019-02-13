@@ -4,7 +4,7 @@ module.exports = {
       return `perfecto puedes ingresar ${edad} `
     }
     else if (edad < 10){
-      return `perfecto puedes ingresar`
+      return `no puedes ingresar`
     }
 
     return `no puedes ingresar`
