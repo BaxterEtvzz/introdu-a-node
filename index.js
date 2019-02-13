@@ -11,6 +11,7 @@ const lugar = "Little Caesars ";
 const edad = 5;
 const hobby = "jugar";
 const problema = "no podía comer carne";
+const cafe =  'café americano';
 const emocion = "se ponia triste y deprimido";
 const solucion = "pizzas veganas ";
 const introHistoria = intro.historia(nombre, lugar);
